@@ -1,0 +1,26 @@
+body {
+    background-color: #ddd;
+}
+
+table {
+    width: auto;
+    background-color: #424250;
+    color: #ddd;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: solid #ddd;
+    border-collapse: collapse;
+    }
+
+    th, td {
+    border: solid #DDD;
+    padding: 3px;
+    text-align: center;
+}
+
+.tabela-Casa {
+    background-color: #00C4B4;
+}
+
+.tabela-Moda {
+    background-color: #BB86FC;
+}
